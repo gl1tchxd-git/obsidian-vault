@@ -16,13 +16,13 @@
 	- [x] Rationale Zahlen ✅ 2023-11-15
 	- [x] Modulo- und Integer-Rechnung ✅ 2023-11-15
 	- [x] Umwandlung von Dezimal-in Bruchschreibweise ✅ 2023-11-15
-	- [ ] Rechnen mit Brüchen 
+	- [ ] Rechnen mit Brüchen ⏫ 
 	- [x] Zahlen: Zahlengerade, Betrag, Intervalle ✅ 2023-11-15
-- [ ] Variable und Terme 
-	- [ ] Terme aufstellen und interpretieren
-	- [ ] Indizierte Variablen
-	- [ ] Summenzeichen 
-	- [ ] Arithmetisches Mittel
+- [x] Variable und Terme ✅ 2023-11-15
+	- [x] Terme aufstellen und interpretieren ✅ 2023-11-15
+	- [x] Indizierte Variablen ✅ 2023-11-15
+	- [x] Summenzeichen ✅ 2023-11-15
+	- [x] Arithmetisches Mittel ✅ 2023-11-15
 - [ ] Grundlegendes Rechnen mit Zahlen und Variablen 
 	- [ ] Grundrechenarten
 	- [ ] Bruchrechnung

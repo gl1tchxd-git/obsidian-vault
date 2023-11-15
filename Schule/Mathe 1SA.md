@@ -17,7 +17,7 @@
 	- [x] Modulo- und Integer-Rechnung ✅ 2023-11-15
 	- [x] Umwandlung von Dezimal-in Bruchschreibweise ✅ 2023-11-15
 	- [ ] Rechnen mit Brüchen 
-	- [ ] Zahlen: Zahlengerade, Betrag, Intervalle
+	- [x] Zahlen: Zahlengerade, Betrag, Intervalle ✅ 2023-11-15
 - [ ] Variable und Terme 
 	- [ ] Terme aufstellen und interpretieren
 	- [ ] Indizierte Variablen

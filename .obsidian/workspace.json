@@ -41,7 +41,7 @@
               "type": "markdown",
               "state": {
                 "file": "Schule/Mathe 1SA.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -109,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "31750708450871a3",
@@ -186,11 +187,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 405.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,7 +206,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b93d85a0bb29d944",
+  "active": "16e48e80ca6691d0",
   "lastOpenFiles": [
     "2023-11-15.md",
     "Token.md",

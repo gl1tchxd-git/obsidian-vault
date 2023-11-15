@@ -13,9 +13,9 @@
 - [ ] Zahlenarten, Zahlengerade, Intervalle
 	- [x] Natürliche Zahlen
 	- [x] ggt und kgV
-	- [ ] Rationale Zahlen
-	- [ ] Modulo- und Integer-Rechnung 
-	- [ ] Umwandlung von Dezimal-in Bruchschreibweise
+	- [x] Rationale Zahlen ✅ 2023-11-15
+	- [x] Modulo- und Integer-Rechnung ✅ 2023-11-15
+	- [x] Umwandlung von Dezimal-in Bruchschreibweise ✅ 2023-11-15
 	- [ ] Rechnen mit Brüchen 
 	- [ ] Zahlen: Zahlengerade, Betrag, Intervalle
 - [ ] Variable und Terme 

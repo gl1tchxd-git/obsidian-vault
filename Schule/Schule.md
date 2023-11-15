@@ -1,0 +1,1 @@
+[Mathe 1SA](obsidian://open?vault=Obsidian&file=Schule%2FMathe%201SA)

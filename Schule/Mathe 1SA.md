@@ -1,0 +1,43 @@
+- [x] Mengenlehre
+	- [x] Bezeichnungen
+	- [x] Mengenangabe (Aufzählend/beschreibend)
+	- [x] Typen
+		- [x] Gleichheit
+		- [x] Leere Menge 
+		- [x] Teilmenge
+	- [x] Verknüpfungen/ Mengendiagramme
+	- [x] Vereinigung
+	- [x] Durchschnitt
+	- [x] Differenzmenge
+	- [x] Textaufgaben
+- [ ] Zahlenarten, Zahlengerade, Intervalle
+	- [x] Natürliche Zahlen
+	- [x] ggt und kgV
+	- [ ] Rationale Zahlen
+	- [ ] Modulo- und Integer-Rechnung 
+	- [ ] Umwandlung von Dezimal-in Bruchschreibweise
+	- [ ] Rechnen mit Brüchen 
+	- [ ] Zahlen: Zahlengerade, Betrag, Intervalle
+- [ ] Variable und Terme 
+	- [ ] Terme aufstellen und interpretieren
+	- [ ] Indizierte Variablen
+	- [ ] Summenzeichen 
+	- [ ] Arithmetisches Mittel
+- [ ] Grundlegendes Rechnen mit Zahlen und Variablen 
+	- [ ] Grundrechenarten
+	- [ ] Bruchrechnung
+	- [ ] Grundgesetze der Addition und Multiplikation
+	- [ ] Vorrangregeln
+	- [ ] Vorzeichenregeln
+	- [ ] Produkt-Null-Satz
+	- [ ] Auflösen und ausmultiplizieren von Klammern
+	- [ ] Binomische Formeln
+	- [ ] Faktorisieren
+- [ ] Potenzen 
+	- [ ] Potenzen mit negativen Exponenten
+	- [ ] Potenzgesetze 
+	- [ ] Gleitkommadarstellung
+	- [ ] SI-Präfixe von Atto bis Exa
+	- [ ] Umwandlung von Maßen,
+	- [ ] Rechnen mit Maßeinheiten
+	- [ ] Textaufgaben/Anwendungen

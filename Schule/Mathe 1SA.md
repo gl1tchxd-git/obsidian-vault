@@ -32,12 +32,12 @@
 	- [x] Vorrangregeln ✅ 2023-11-16
 	- [x] Vorzeichenregeln ✅ 2023-11-16
 	- [x] Produkt-Null-Satz ✅ 2023-11-16
-	- [ ] Auflösen und ausmultiplizieren von Klammern
-	- [ ] Binomische Formeln
-	- [ ] Faktorisieren
+	- [x] Auflösen und ausmultiplizieren von Klammern ✅ 2023-11-16
+	- [x] Binomische Formeln ✅ 2023-11-16
+	- [x] Faktorisieren ✅ 2023-11-16
 - [ ] Potenzen 
-	- [ ] Potenzen mit negativen Exponenten
-	- [ ] Potenzgesetze 
+	- [x] Potenzen mit negativen Exponenten ✅ 2023-11-16
+	- [x] Potenzgesetze ✅ 2023-11-16
 	- [ ] Gleitkommadarstellung
 	- [ ] SI-Präfixe von Atto bis Exa
 	- [ ] Umwandlung von Maßen,

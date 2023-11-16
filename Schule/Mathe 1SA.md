@@ -18,7 +18,7 @@
 	- [x] Rationale Zahlen ✅ 2023-11-15
 	- [x] Modulo- und Integer-Rechnung ✅ 2023-11-15
 	- [x] Umwandlung von Dezimal-in Bruchschreibweise ✅ 2023-11-15
-	- [ ] Rechnen mit Brüchen ⏫ 
+	- [ ] Rechnen mit Brüchen 🔺 
 	- [x] Zahlen: Zahlengerade, Betrag, Intervalle ✅ 2023-11-15
 - [x] Variable und Terme ✅ 2023-11-15
 	- [x] Terme aufstellen und interpretieren ✅ 2023-11-15

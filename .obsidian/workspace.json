@@ -28,19 +28,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Do-To.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "12b70880cb9c8815",
+            "id": "76759b4550774818",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Do-To.md",
+                "file": "Schule/Mathe 1SA.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,8 +93,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Do-To.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Do-To.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Do-To.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -175,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -194,16 +193,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b93d85a0bb29d944",
+  "active": "125ddcfa6c1f76ae",
   "lastOpenFiles": [
-    "Schule/Mathe 1SA.md",
-    "Token.md",
     "Do-To.md",
+    "Untitled.canvas",
+    "Token.md",
+    "Excalidraw/Drawing 2023-11-16 16.39.40.excalidraw.md",
+    "Schule/Mathe 1SA.md",
     "Excalidraw/Drawing 2023-11-15 19.47.10.excalidraw.md",
     "Excalidraw/Drawing 2023-11-15 19.47.10_0.excalidraw.md",
     "Untitled 1.md",
     "Excalidraw",
-    "Untitled.canvas",
     "Schule/Schule.md",
     "Schule",
     "Untitled.md"

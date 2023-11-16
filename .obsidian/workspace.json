@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "31750708450871a3",
@@ -175,7 +176,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "372130014da1ab50",
+  "active": "79748efd6399f8b7",
   "lastOpenFiles": [
     "Schule/Mathe 1SA.md",
     "Untitled.canvas",

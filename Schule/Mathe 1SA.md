@@ -1,3 +1,5 @@
+
+![[Pasted image 20231116172056.png]]
 - [x] Mengenlehre
 	- [x] Bezeichnungen
 	- [x] Mengenangabe (Aufzählend/beschreibend)
@@ -24,7 +26,7 @@
 	- [x] Summenzeichen ✅ 2023-11-15
 	- [x] Arithmetisches Mittel ✅ 2023-11-15
 - [ ] Grundlegendes Rechnen mit Zahlen und Variablen 
-	- [ ] Grundrechenarten
+	- [x] Grundrechenarten ✅ 2023-11-16
 	- [ ] Bruchrechnung
 	- [ ] Grundgesetze der Addition und Multiplikation
 	- [ ] Vorrangregeln

@@ -11,14 +11,11 @@
             "id": "372130014da1ab50",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Schule/Mathe 1SA.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -33,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "76759b4550774818",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schule/Mathe 1SA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "31750708450871a3",
@@ -113,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Schule/Mathe 1SA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Schule/Mathe 1SA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Schule/Mathe 1SA.md"
               }
             }
           },
@@ -174,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -193,15 +178,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "125ddcfa6c1f76ae",
+  "active": "79748efd6399f8b7",
   "lastOpenFiles": [
-    "Do-To.md",
     "Untitled.canvas",
+    "Do-To.md",
+    "Excalidraw/Drawing 2023-11-15 19.47.10_0.excalidraw.md",
+    "Schule/Mathe 1SA.md",
+    "Pasted image 20231116172056.png",
     "Token.md",
     "Excalidraw/Drawing 2023-11-16 16.39.40.excalidraw.md",
-    "Schule/Mathe 1SA.md",
     "Excalidraw/Drawing 2023-11-15 19.47.10.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-15 19.47.10_0.excalidraw.md",
     "Untitled 1.md",
     "Excalidraw",
     "Schule/Schule.md",

@@ -38,8 +38,8 @@
 - [ ] Potenzen 
 	- [x] Potenzen mit negativen Exponenten ✅ 2023-11-16
 	- [x] Potenzgesetze ✅ 2023-11-16
-	- [ ] Gleitkommadarstellung
-	- [ ] SI-Präfixe von Atto bis Exa
-	- [ ] Umwandlung von Maßen,
-	- [ ] Rechnen mit Maßeinheiten
+	- [x] Gleitkommadarstellung ✅ 2023-11-16
+	- [x] SI-Präfixe von Atto bis Exa ✅ 2023-11-16
+	- [x] Umwandlung von Maßen, ✅ 2023-11-16
+	- [x] Rechnen mit Maßeinheiten ✅ 2023-11-16
 	- [ ] Textaufgaben/Anwendungen

@@ -27,11 +27,11 @@
 	- [x] Arithmetisches Mittel ✅ 2023-11-15
 - [ ] Grundlegendes Rechnen mit Zahlen und Variablen 
 	- [x] Grundrechenarten ✅ 2023-11-16
-	- [ ] Bruchrechnung
-	- [ ] Grundgesetze der Addition und Multiplikation
-	- [ ] Vorrangregeln
-	- [ ] Vorzeichenregeln
-	- [ ] Produkt-Null-Satz
+	- [x] Bruchrechnung ✅ 2023-11-16
+	- [x] Grundgesetze der Addition und Multiplikation ✅ 2023-11-16
+	- [x] Vorrangregeln ✅ 2023-11-16
+	- [x] Vorzeichenregeln ✅ 2023-11-16
+	- [x] Produkt-Null-Satz ✅ 2023-11-16
 	- [ ] Auflösen und ausmultiplizieren von Klammern
 	- [ ] Binomische Formeln
 	- [ ] Faktorisieren

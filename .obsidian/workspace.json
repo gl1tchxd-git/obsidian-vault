@@ -11,9 +11,11 @@
             "id": "372130014da1ab50",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-15 19.47.10_0.excalidraw.md"
+                "file": "Do-To.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -91,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "31750708450871a3",
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-15 19.47.10_0.excalidraw.md",
+                "file": "Do-To.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-15 19.47.10_0.excalidraw.md",
+                "file": "Do-To.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-15 19.47.10_0.excalidraw.md"
+                "file": "Do-To.md"
               }
             }
           },
@@ -190,8 +191,8 @@
   },
   "active": "372130014da1ab50",
   "lastOpenFiles": [
-    "Schule/Mathe 1SA.md",
     "Excalidraw/Drawing 2023-11-15 19.47.10_0.excalidraw.md",
+    "Schule/Mathe 1SA.md",
     "Untitled.canvas",
     "Do-To.md",
     "Pasted image 20231116172056.png",

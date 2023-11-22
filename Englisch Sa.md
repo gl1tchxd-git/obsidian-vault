@@ -1,4 +1,4 @@
-- [ ] vocab
+- [x] vocab ✅ 2023-11-22
 - [x] present simple / Continuous ✅ 2023-11-22
 - [x] past simple ✅ 2023-11-22
 - [x] questions ✅ 2023-11-22

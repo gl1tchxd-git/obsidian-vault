@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "4d0bc952fdd89c95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Englisch Sa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1c483422b5b055fc",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Do-To.md",
+                "file": "Englisch Sa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Do-To.md",
+                "file": "Englisch Sa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Do-To.md"
+                "file": "Englisch Sa.md"
               }
             }
           },
@@ -189,12 +202,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "372130014da1ab50",
+  "active": "4d0bc952fdd89c95",
   "lastOpenFiles": [
+    "Do-To.md",
+    "Englisch Sa.md",
     "Excalidraw/Drawing 2023-11-15 19.47.10_0.excalidraw.md",
     "Schule/Mathe 1SA.md",
     "Untitled.canvas",
-    "Do-To.md",
     "Pasted image 20231116172056.png",
     "Token.md",
     "Excalidraw/Drawing 2023-11-16 16.39.40.excalidraw.md",

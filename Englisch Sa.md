@@ -1,9 +1,9 @@
 - [ ] vocab
-- [ ] present simple / Continuous
-- [ ] past simple 
+- [x] present simple / Continuous ✅ 2023-11-22
+- [x] past simple ✅ 2023-11-22
 - [x] questions ✅ 2023-11-22
 - [ ] personal pronouns
-- [ ] comparative and superlative
+- [x] comparative and superlative ✅ 2023-11-22
 - [ ] relative pronouns
-- [ ] writing an email
+- [x] writing an email ✅ 2023-11-22
 

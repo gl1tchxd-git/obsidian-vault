@@ -39,4 +39,21 @@
 	180° Östlich und Westlich vom Nullmeridian
 
 # Zeitzonen
-	
+	Erde bewegt sich um die Sonne
+	1 Bewegung um die Sonne = Erdrevulution(365,25 Tage)
+	1 Bewegung um die eigene Achse = Erdrotation(~24 Stunden)
+	Erde ist schräg geneigt
+
+	Erdrevulution:
+		An manchen Zeitpunkten an verschiedenen Orten treffen Strahlen verschieden Schräg ein
+			Schräg = Warm(Sommer)
+			Flach = Kalt(Winter)
+
+		Orbit elliptisch
+			1. Jänner am nächsten
+			2. Juli am weitesten entfernt
+			Macht nicht viel aus
+	Erdrotation:
+		Macht Tag und Nacht aus
+		Neigung der Achse verändert die längen von Tag/ Nacht
+			

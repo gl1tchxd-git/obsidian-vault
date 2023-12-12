@@ -44,16 +44,34 @@
 	1 Bewegung um die eigene Achse = Erdrotation(~24 Stunden)
 	Erde ist schräg geneigt
 
-	Erdrevulution:
-		An manchen Zeitpunkten an verschiedenen Orten treffen Strahlen verschieden Schräg ein
-			Schräg = Warm(Sommer)
-			Flach = Kalt(Winter)
 
-		Orbit elliptisch
-			1. Jänner am nächsten
-			2. Juli am weitesten entfernt
-			Macht nicht viel aus
-	Erdrotation:
-		Macht Tag und Nacht aus
-		Neigung der Achse verändert die längen von Tag/ Nacht
-			
+	An manchen Zeitpunkten an verschiedenen Orten treffen Strahlen verschieden Schräg ein
+		Schräg = Warm(Sommer)
+		Flach = Kalt(Winter)
+
+	Orbit elliptisch
+		1. Jänner am nächsten
+		2. Juli am weitesten entfernt
+		Macht nicht viel aus
+
+	Macht Tag und Nacht aus
+	Neigung der Achse verändert die Längen von Tag/ Nacht
+		Am Aquator 12 z u12
+		An den Wendekreisen 13,5 zu 10,5
+		An den Polarkreisen 24 zu 0
+		Am Österreichischen Breitengrad 16 zu 8
+
+# Plattentektonik
+	Die Platten bewegen sich immer
+	Platten schwimmen auf den Wärmeausgleichströmen
+	4 Arten
+		Dehnungszone
+			Zwei Platten gehen auseinander
+			Erdkruste reißt auf
+			Magma füllt die Spalten
+		Kollisionszone
+			.
+		Subduktionszone
+			.
+		Scherungszone
+			.

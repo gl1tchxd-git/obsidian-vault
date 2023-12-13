@@ -5,7 +5,7 @@
 	Magnetosphäre: Magnetfeld
 	Biosphäre: Raum der Erde in dem Leben vorkommt
 
-	Athmosphäre: 
+	Athmosphäre: ❗ 
 		Troposphäre
 		Stratosphäre
 		Mesosphäre
@@ -83,3 +83,7 @@
 			Zwei Platten gleiten aneinander vorbei
 			Erdkruste reisßt entlang Verwerfungen auf
 			
+
+Geofaktoren
+Plattenverschiebung
+Athmosphäre

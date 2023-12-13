@@ -67,11 +67,18 @@
 	4 Arten
 		Dehnungszone
 			Zwei Platten gehen auseinander
-			Erdkruste reißt auf
-			Magma füllt die Spalten
+			Erdkruste reißt auf("Seafloor-Spreading")
+			Magma füllt die Spalten und bilded neue Ozeanische Erdkruste
+			
 		Kollisionszone
-			.
+			Zwei Kontinentale Platten Stoßen zusammen
+			Erdkruste wird zerquetscht und zu Gebirgen aufgetürmt
+			
 		Subduktionszone
-			.
+			Eine Kontinentale und eien Ozeanische Platte driften gegeneinander
+			Ozeanische Platte wird unter die Kontinentale Platte gedrückt.
+			
 		Scherungszone
-			.
+			Zwei Platten gleiten aneinander vorbei
+			Erdkruste reisßt entlang Verwerfungen auf
+			

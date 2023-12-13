@@ -84,6 +84,7 @@
 			Erdkruste reisßt entlang Verwerfungen auf
 			
 
-Geofaktoren
-Plattenverschiebung
-Athmosphäre
+
+- [ ] Geofaktoren
+- [x] Plattenverschiebung ✅ 2023-12-13
+- [x] Athmosphäre ✅ 2023-12-13

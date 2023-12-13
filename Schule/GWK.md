@@ -23,6 +23,7 @@
 		Von der US Army erfunden und betrieben
 	GALILEO
 		Mehr Vorteile über GPS
+		Esa
 		30 Satelliten
 		1m Genauigkeit
 
@@ -56,7 +57,7 @@
 
 	Macht Tag und Nacht aus
 	Neigung der Achse verändert die Längen von Tag/ Nacht
-		Am Aquator 12 z u12
+		Am Aquator 12 zu 12
 		An den Wendekreisen 13,5 zu 10,5
 		An den Polarkreisen 24 zu 0
 		Am Österreichischen Breitengrad 16 zu 8
